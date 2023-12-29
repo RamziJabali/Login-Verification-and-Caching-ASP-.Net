@@ -1,0 +1,7 @@
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\bin\StaffServiceNoneHttp.dll.config
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\bin\StaffServiceNoneHttp.dll
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\bin\StaffServiceNoneHttp.pdb
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\obj\Debug\StaffServiceNoneHttp.csproj.AssemblyReference.cache
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\obj\Debug\StaffServiceNoneHttp.csproj.CoreCompileInputs.cache
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\obj\Debug\StaffServiceNoneHttp.dll
+C:\Users\14807\source\repos\445_Project_5\StaffServiceNoneHttp\obj\Debug\StaffServiceNoneHttp.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user-1>
+    <username>TA1</username>
+    <password>TAPassword1</password>
+  </user-1>
+  <user-2>
+    <username>TA2</username>
+    <password>TAPassword2</password>
+  </user-2>
+  <user-3>
+    <username>Ramzi</username>
+    <password>1</password>
+  </user-3>
+  <user-4>
+    <username>m</username>
+    <password>m</password>
+  </user-4>
+</users>

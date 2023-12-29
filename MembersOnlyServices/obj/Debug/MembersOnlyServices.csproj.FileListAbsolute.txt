@@ -1,0 +1,10 @@
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\bin\MembersOnlyServices.dll.config
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\bin\MembersOnlyServices.dll
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\bin\MembersOnlyServices.pdb
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\bin\Newtonsoft.Json.dll
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\bin\Newtonsoft.Json.xml
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\obj\Debug\MembersOnlyServices.csproj.AssemblyReference.cache
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\obj\Debug\MembersOnlyServices.csproj.CoreCompileInputs.cache
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\obj\Debug\MembersOnlyServices.csproj.CopyComplete
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\obj\Debug\MembersOnlyServices.dll
+C:\Users\14807\source\repos\445_Project_5\MembersOnlyServices\obj\Debug\MembersOnlyServices.pdb

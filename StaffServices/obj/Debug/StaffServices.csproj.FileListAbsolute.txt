@@ -1,0 +1,10 @@
+C:\Users\14807\source\repos\445_Project_5\StaffServices\bin\StaffServices.dll.config
+C:\Users\14807\source\repos\445_Project_5\StaffServices\bin\StaffServices.dll
+C:\Users\14807\source\repos\445_Project_5\StaffServices\bin\StaffServices.pdb
+C:\Users\14807\source\repos\445_Project_5\StaffServices\bin\Newtonsoft.Json.dll
+C:\Users\14807\source\repos\445_Project_5\StaffServices\bin\Newtonsoft.Json.xml
+C:\Users\14807\source\repos\445_Project_5\StaffServices\obj\Debug\StaffServices.csproj.AssemblyReference.cache
+C:\Users\14807\source\repos\445_Project_5\StaffServices\obj\Debug\StaffServices.csproj.CoreCompileInputs.cache
+C:\Users\14807\source\repos\445_Project_5\StaffServices\obj\Debug\StaffServices.csproj.CopyComplete
+C:\Users\14807\source\repos\445_Project_5\StaffServices\obj\Debug\StaffServices.dll
+C:\Users\14807\source\repos\445_Project_5\StaffServices\obj\Debug\StaffServices.pdb
